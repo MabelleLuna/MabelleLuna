@@ -1,5 +1,7 @@
 <h1>✨Welcome✨</h1>
-Developer that builds and designs website & alumna from California State University of Bakersfield.
+<p>I'm a developer that builds and designs websites.</p>
+<p>Alumna from California State University of Bakersfield.</p>
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cplusplus" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Py" width="40" height="40"/>
