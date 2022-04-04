@@ -1,6 +1,7 @@
-<h1>✨Hi there✨</h1>
-<p>I'm a developer that builds and designs websites.</p>
-<p>Alumna from California State University of Bakersfield.</p>
+<h2>🌸Hi there🌸</h2>
+<h5>I'm a developer👩‍💻 I love building and designing websites! Some random side projects I've done include small RPG games, rendering graphics, & am working on building a hybrid mobile app.
+I have both front end, back end, and full stack experience.</h5>
+<h6>Alumna from California State University of Bakersfield</h6>
 <h6>List of Languages I use:</h6>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cplusplus" alt="C" width="40" height="40"/>&nbsp;
