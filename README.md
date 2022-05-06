@@ -1,5 +1,5 @@
 <h2>Hi there🌸</h2>
-<h6>Developer working remote in Cali👩‍💻 I love building and designing websites!
+<h6>I'm a developer working remote in Cali👩‍💻 I love building and designing websites!
 <p></p>Alumna from California State University of Bakersfield with a Bachelor of Science in Computer Science and a concentration in Information Systems.</h6>
 </h6>
 <h5>List of Languages I use:</h5>
