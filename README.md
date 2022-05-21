@@ -2,8 +2,6 @@
 <h6>I'm a developer working remote in Cali👩‍💻 I love building and designing websites!
 <p></p>Alumna from California State University of Bakersfield with a Bachelor of Science in Computer Science and a concentration in Information Systems.</h6>
 </h6>
-<h6><a href="https://www.instagram.com/mabellegabrielleluna"><img align="left" src="https://github.com/yushi1007/yushi1007/blob/main/images/instagram.png" width="21px"/></a><br>
-</h6>
 <h5>List of Languages I use:</h5>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cplusplus" alt="C" width="40" height="40"/>&nbsp;
@@ -17,6 +15,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<h6><a href="https://www.instagram.com/mabellegabrielleluna"><img align="left" src="https://github.com/yushi1007/yushi1007/blob/main/images/instagram.png" width="21px"/></a><br>
+</h6>
 <!--
 **MabelleLuna/MabelleLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
