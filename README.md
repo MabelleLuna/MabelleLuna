@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="path/to/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 <h2>Hi there🌸</h2>
 <h6>I'm a developer working remote in Cali👩‍💻 I love building and designing websites!
 <p></p>Alumna from California State University of Bakersfield with a Bachelor of Science in Computer Science and a concentration in Information Systems.</h6>
