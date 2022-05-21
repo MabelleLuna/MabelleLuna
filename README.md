@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<h6><a href="https://www.instagram.com/mabellegabrielleluna"><img src="https://www.flaticon.com/free-icon/instagram_1077042?term=instagram&page=1&position=4&page=1&position=4&related_id=1077042&origin=search" width="100"></a>
+<h6><a href="https://www.instagram.com/mabellegabrielleluna"><img src="Screenshot_20220521-164634~2.png" width="30"></a>
 </h6>
 
 <!--
