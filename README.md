@@ -2,7 +2,7 @@
 <h6>I'm a developer working remote in Cali👩‍💻 I love building and designing websites!
 <p></p>Alumna from California State University of Bakersfield with a Bachelor of Science in Computer Science and a concentration in Information Systems.</h6>
 </h6>
-<a href="https://github.com/yushi1007/yushi1007/blob/main/images/instagram.png"><img align="left" src="https://github.com/yushi1007/yushi1007/blob/main/images/instagram.png" width="21px"/></a>
+<a href="https://github.com/yushi1007/yushi1007/blob/main/images/instagram.png"><img align="left" src="https://github.com/yushi1007/yushi1007/blob/main/images/instagram.png" width="21px"/></a><br>
 <h5>List of Languages I use:</h5>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cplusplus" alt="C" width="40" height="40"/>&nbsp;
