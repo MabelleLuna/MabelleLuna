@@ -1,9 +1,7 @@
-<link rel="stylesheet" href="path/to/bootstrap/css/bootstrap.min.css">
-<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
-<center><h6>Hi there🌸<br><br>
+<h6>Hi there🌸<br><br>
 I'm a developer working remote in Cali👩‍💻 I love building and designing websites!
 <p></p>Alumna from California State University of Bakersfield with a Bachelor of Science in Computer Science and a concentration in Information Systems.</h6>
-</h6></center>
+</h6>
 <h6>Languages I like to use:</h6>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cplusplus" alt="C" width="40" height="40"/>&nbsp;
