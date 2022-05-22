@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="path/to/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
-<h5>Hi there🌸</h5>
-<h6>I'm a developer working remote in Cali👩‍💻 I love building and designing websites!
+<h6>Hi there🌸<be>
+I'm a developer working remote in Cali👩‍💻 I love building and designing websites!
 <p></p>Alumna from California State University of Bakersfield with a Bachelor of Science in Computer Science and a concentration in Information Systems.</h6>
 </h6>
 <h6>Languages I like to use:</h6>
@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<h6>Socials:<br><a href="https://instagram.com/mabellegabrielleluna"><img src="https://github.com/shikhar1020jais1/Git-Social/blob/4fb8aba53a2500eb13bee4affeb415e4300b40da/Icons/Instagram.png"></a></h6>
+<h6>Follow me:<br><a href="https://instagram.com/mabellegabrielleluna"><img src="https://github.com/shikhar1020jais1/Git-Social/blob/4fb8aba53a2500eb13bee4affeb415e4300b40da/Icons/Instagram.png"></a></h6>
 
 <!--
 **MabelleLuna/MabelleLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
