@@ -1,8 +1,7 @@
-<h6>Hi there🌸<br><br>
-I'm a web developer working remote in Cali👩‍💻 I love building websites!
+<h6>Web developer for Front Row Digital👩‍💻 Working remote in Cali🌸 I love building websites!
 <p></p>Alumna from CSU Bakersfield with a Bachelor of Science in Computer Science and a concentration in Information Systems.</h6>
 </h6>
-<h6>Languages I like to use:</h6>
+<h6>Languages I like</h6>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cplusplus" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Py" width="40" height="40"/>
