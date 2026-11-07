@@ -1,4 +1,4 @@
-<h6>Developer👩‍💻 Working remote in Cali🌸 I love building websites!
+<h6>Senior Developer👩‍💻 Working remote in Cali🌸 I love building apps & websites!
 <p></p>Alumna from CSU Bakersfield with a B.S. in Computer Science and a concentration in Information Systems.</h6>
 </h6>
 <h6>Languages I like</h6>
